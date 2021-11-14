@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @jessiekathryng
-- 👀 I’m interested in development and design
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to practice building and learn from others
+- Hi, I’m @jessiekathryng
+- I’m interested in development and design
+- I’m currently learning Javascript
+- I’m looking to practice building and learn from others
 
 
 <!---
