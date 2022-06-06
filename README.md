@@ -1,8 +1,6 @@
 - Hi, I’m @jessiekathryng
 - I’m interested in development and design
-- I’m currently learning Javascript
-- I’m looking to practice building and learn from others
-
+- Software Developer Apprentice
 
 <!---
 jessiekathryng/jessiekathryng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
