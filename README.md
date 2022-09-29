@@ -1,5 +1,5 @@
 - Hi, I’m @jessiekathryng
-- I’m interested in development and design
+- I’m interested in Full Stack Software Development
 - Software Developer Apprentice
 
 <!---
