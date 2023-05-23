@@ -1,6 +1,5 @@
 - Hi, I’m @jessiekathryng
-- I’m interested in Full Stack Software Development
-- Software Developer Apprentice
+- I’m am a Java Developer with IBM
 
 <!---
 jessiekathryng/jessiekathryng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
